@@ -19,20 +19,21 @@
 
 ---
 
-### Research
+### Core Research Focus
 
-**How much more can software extract from the hardware we already have?**
+> **"How much more performance can software extract from the hardware we already have?"**
 
-I explore the layers between models and hardware:
-numerical systems, compilers, runtimes, kernels and machine code.
+I explore the layers between models and bare-metal silicon: numerical systems, compiler passes, async runtimes, GPU tensor kernels, and assembly code.
 
 ---
 
-### Currently
+### Current Engineering Frontiers
 
-Exploring compiler-driven inference, GPU execution and numerical systems.
+* **Compiler-Driven Inference**: Zero-overhead graph lowering and hardware memory alignment.
+* **GPU Execution Runtimes**: Hand-tuned CUDA kernels and async tensor pipelines.
+* **Numerical Invariants**: High-precision state algebra and deterministic world modeling.
 
-Trying to make computers do things they were not supposed to do.
+*Trying to make computers do things they were not supposed to do.*
 
 ---
 
