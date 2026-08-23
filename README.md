@@ -9,15 +9,12 @@
   <br />
 
   [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-  [![Mojo](https://img.shields.io/badge/Mojo-000000?style=for-the-badge&logo=fire&logoColor=FF4500)](https://www.modular.com/mojo)
-  [![Julia](https://img.shields.io/badge/Julia-000000?style=for-the-badge&logo=julia&logoColor=9558B2)](https://julialang.org/)
   [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
   [![Swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=FA7343)](https://developer.apple.com/swift/)
   [![CUDA](https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=76B900)](https://developer.nvidia.com/cuda-zone)
   [![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C)](https://isocpp.org/)
   [![JAX](https://img.shields.io/badge/JAX-000000?style=for-the-badge&logo=google&logoColor=white)](https://github.com/google/jax)
   [![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B)](https://flutter.dev/)
-  [![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=0175C2)](https://dart.dev/)
   [![MLIR / LLVM](https://img.shields.io/badge/MLIR_%2F_LLVM-000000?style=for-the-badge&logo=llvm&logoColor=white)](https://llvm.org/)
   [![WebAssembly](https://img.shields.io/badge/WASM_SIMD-000000?style=for-the-badge&logo=webassembly&logoColor=654FF0)](https://webassembly.org/)
 
@@ -29,7 +26,7 @@
 
 > **"How much more performance can software extract from the hardware we already have?"**
 
-I explore the layers between models and bare-metal silicon: numerical systems, compiler passes, async runtimes, GPU tensor kernels, high-performance mobile UI runtimes, and assembly code.
+I explore the layers between models and bare-metal silicon: numerical systems, compiler passes, async runtimes, GPU tensor kernels, high-performance UI runtimes, and assembly code.
 
 ---
 
@@ -38,7 +35,7 @@ I explore the layers between models and bare-metal silicon: numerical systems, c
 * **Compiler-Driven Inference**: Zero-overhead graph lowering and hardware memory alignment.
 * **GPU Execution Runtimes**: Hand-tuned CUDA kernels and async tensor pipelines.
 * **Numerical Invariants**: High-precision state algebra and deterministic world modeling.
-* **Native & Cross-Platform Engines**: High-throughput Swift, Flutter, and Dart client implementations.
+* **Native & Cross-Platform Engines**: High-throughput Swift and Flutter client implementations.
 
 *Trying to make computers do things they were not supposed to do.*
 
